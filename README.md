@@ -1,4 +1,4 @@
-<h3>Seja Bem vindo</h3>
+<h3>Seja Bem vindo</h3> <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
 - 📚 Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 - 🚵‍♂️ Ciclista nas horas vagas
