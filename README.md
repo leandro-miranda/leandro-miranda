@@ -18,23 +18,23 @@
         <tr valign="top">
           <td width="80px" align="center">
           <span><strong>Javascript</strong></span><br>
-          <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           </td>
           <td width="80px" align="center">
           <span><strong>HTML</strong></span><br>
-          <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           </td>
           <td width="80px" align="center">
           <span><strong>CSS</strong></span><br>
-          <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           </td>
           <td width="80px" align="center">
           <span><strong>React</strong></span><br>
-          <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-  original.svg">
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-  original.svg">
           </td>
           <td width="80px" align="center">
           <span><strong>GitHub</strong></span><br>
-          <img align="center" alt="Git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
           </td>
         </tr>
       </tbody>   
