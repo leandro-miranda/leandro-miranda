@@ -30,7 +30,7 @@
           </td>
           <td width="80px" align="center">
           <span><strong>React</strong></span><br>
-          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-  original.svg">
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
           </td>
           <td width="80px" align="center">
           <span><strong>GitHub</strong></span><br>
