@@ -36,6 +36,14 @@
           <span><strong>GitHub</strong></span><br>
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
           </td>
+          <td width="80px" align="center">
+          <span><strong>Docker</strong></span><br>
+          <img height="32" src="src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg""> 
+          </td>
+          <td width="80px" align="center">
+          <span><strong>MySQL</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">> 
+          </td>
         </tr>
       </tbody>   
  </table>  
