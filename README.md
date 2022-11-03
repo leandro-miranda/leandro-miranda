@@ -44,6 +44,11 @@
           <span><strong>MySQL</strong></span><br>
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">> 
           </td>
+          </td>
+          <td width="80px" align="center">
+          <span><strong>Node.JS</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">> 
+          </td>
         </tr>
       </tbody>   
  </table>  
