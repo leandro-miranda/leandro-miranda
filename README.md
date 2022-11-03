@@ -47,7 +47,15 @@
           </td>
           <td width="80px" align="center">
           <span><strong>Node.JS</strong></span><br>
-          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>Express</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>Sequelize</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
           </td>
         </tr>
       </tbody>   
