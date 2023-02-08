@@ -57,6 +57,18 @@
           <span><strong>Sequelize</strong></span><br>
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
           </td>
+          <td width="80px" align="center">
+          <span><strong>TypeScript</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>Jest</strong></span><br>
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+          </td>
+          <td width="80px" align="center">
+          <span><strong>MongoDB</strong></span><br>
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+          </td>
         </tr>
       </tbody>   
  </table>  
