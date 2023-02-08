@@ -24,6 +24,7 @@
           <span><strong>HTML</strong></span><br>
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           </td>
+     </br>
           <td width="80px" align="center">
           <span><strong>CSS</strong></span><br>
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
